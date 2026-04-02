@@ -1,0 +1,5 @@
+{
+  "name": "新生入學 Q&A 機器人",
+  "description": "國小新生入學專用的網頁機器人客服，使用 Gemini API 提供問答服務。",
+  "requestFramePermissions": []
+}
